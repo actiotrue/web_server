@@ -8,10 +8,6 @@ HTTP/1.1 compliant: Implements the HTTP specification with proper message parsin
 
 Chunked transfer encoding: Supports streaming responses with Transfer-Encoding: chunked
 
-Trailer headers: Implements HTTP trailers for post-response metadata
-
-HTTP proxy: Can act as a proxy to external services
-
 ## Getting Started
 Installation
 ```bash
